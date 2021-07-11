@@ -7,6 +7,7 @@ Construct a chessboard using numpy and matplotlib.
 ## Links
 
 - [See the Code](chess_board.ipynb)
+- [Pull Request](https://github.com/daveeS987/chess-board/pull/1)
 
 ## Feature Tasks and Requirements
 
