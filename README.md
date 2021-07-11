@@ -1,5 +1,7 @@
 # Chess Board
 
+## Author: Davee Sok
+
 ## Overview
 
 Construct a chessboard using numpy and matplotlib.
