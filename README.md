@@ -4,6 +4,10 @@
 
 Construct a chessboard using numpy and matplotlib.
 
+## Links
+
+- [See the Code](chess_board.ipynb)
+
 ## Feature Tasks and Requirements
 
 - Render out chess boards with red and blue queens on them.
